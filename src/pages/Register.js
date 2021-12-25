@@ -65,7 +65,10 @@ const Register = () => {
         <Input type="password" placeholder="Password" />
         <Input type="password" placeholder="Re-enter Password" />
         <Button>SIGN UP</Button>
-        <Link to="/signin" style={{ textDecoration: "none", color: "black" }}>
+        <Link
+          to="/ecommerce-web-app/signin"
+          style={{ textDecoration: "none", color: "black" }}
+        >
           <Text>Already have an account? Sign in</Text>
         </Link>
       </Wrapper>

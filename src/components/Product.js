@@ -104,7 +104,7 @@ const Product = () => {
                 />
               </Row>
               <Link
-                to="/cart"
+                to="/ecommerce-web-app/cart"
                 onClick={() => {
                   items[item.index].count += count;
                   setItems((items) => [...items]);

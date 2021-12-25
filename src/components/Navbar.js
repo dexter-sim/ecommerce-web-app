@@ -74,20 +74,26 @@ export const Navbar = () => {
         </Left>
         <Mid>
           <Logo>
-            <Link to="/" style={{ textDecoration: "none", color: "black" }}>
+            <Link
+              to="/ecommerce-web-app"
+              style={{ textDecoration: "none", color: "black" }}
+            >
               M I C R O V E R S E
             </Link>
           </Logo>
         </Mid>
         <Right>
           <MenuItem>
-            <Link to="/shop" style={{ textDecoration: "none", color: "black" }}>
+            <Link
+              to="/ecommerce-web-app/shop"
+              style={{ textDecoration: "none", color: "black" }}
+            >
               CATALOGUE
             </Link>
           </MenuItem>
           <MenuItem>
             <Link
-              to="/register"
+              to="/ecommerce-web-app/register"
               style={{ textDecoration: "none", color: "black" }}
             >
               REGISTER
@@ -95,14 +101,17 @@ export const Navbar = () => {
           </MenuItem>
           <MenuItem>
             <Link
-              to="/signin"
+              to="/ecommerce-web-app/signin"
               style={{ textDecoration: "none", color: "black" }}
             >
               SIGN IN
             </Link>
           </MenuItem>
           <MenuItem>
-            <Link to="/cart" style={{ textDecoration: "none", color: "black" }}>
+            <Link
+              to="/ecommerce-web-app/cart"
+              style={{ textDecoration: "none", color: "black" }}
+            >
               <Badge
                 badgeContent={items.filter((item) => item.count > 0).length}
                 color="secondary"

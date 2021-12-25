@@ -27,10 +27,13 @@ function App() {
           <ScrollToTop />
           <Navbar />
           <Routes>
-            <Route path="/" element={<Home />} />
-            <Route path="/shop/:id" element={<ProductPage />} />
+            <Route path="/ecommerce-web-app" element={<Home />} />
             <Route
-              path="/shop"
+              path="/ecommerce-web-app/shop/:id"
+              element={<ProductPage />}
+            />
+            <Route
+              path="/ecommerce-web-app/shop"
               element={
                 <FilterCatProvider>
                   <FilterPriceProvider>
@@ -39,9 +42,9 @@ function App() {
                 </FilterCatProvider>
               }
             />
-            <Route path="/cart" element={<Cart />} />
-            <Route path="/register" element={<Register />} />
-            <Route path="/signin" element={<Signin />} />
+            <Route path="/ecommerce-web-app/cart" element={<Cart />} />
+            <Route path="/ecommerce-web-app/register" element={<Register />} />
+            <Route path="/ecommerce-web-app/signin" element={<Signin />} />
           </Routes>
           <Footer />
         </BrowserRouter>

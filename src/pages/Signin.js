@@ -65,7 +65,10 @@ const Signin = () => {
         <Input type="password" placeholder="Password" />
         <Button>LOGIN</Button>
         <Text>Forgot your email or password?</Text>
-        <Link to="/register" style={{ textDecoration: "none", color: "black" }}>
+        <Link
+          to="/ecommerce-web-app/register"
+          style={{ textDecoration: "none", color: "black" }}
+        >
           <Text>Create new account</Text>
         </Link>
       </Wrapper>

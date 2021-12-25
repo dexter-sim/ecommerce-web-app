@@ -140,7 +140,7 @@ const Cart = () => {
         {items.reduce((prev, curr) => prev + curr.count * curr.price, 0)}
       </GrandTotal>
       <Bottom>
-        <Link to="/shop">
+        <Link to="/ecommerce-web-app/shop">
           <Button>CONTINUE SHOPPING</Button>
         </Link>
         <Button>CHECKOUT ➜</Button>

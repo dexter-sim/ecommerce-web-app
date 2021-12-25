@@ -87,7 +87,7 @@ const Footer = () => {
         <List>
           <ListItem>
             <Link
-              to="/"
+              to="/ecommerce-web-app"
               style={{
                 textDecoration: "none",
                 color: "black",
@@ -99,7 +99,7 @@ const Footer = () => {
           </ListItem>
           <ListItem>
             <Link
-              to="/shop"
+              to="/ecommerce-web-app/shop"
               style={{
                 textDecoration: "none",
                 color: "black",
@@ -111,7 +111,7 @@ const Footer = () => {
           </ListItem>
           <ListItem>
             <Link
-              to="/cart"
+              to="/ecommerce-web-app/cart"
               style={{
                 textDecoration: "none",
                 color: "black",

@@ -73,7 +73,7 @@ const Products = () => {
             </ImgContainer>
             <Title>{item.title}</Title>
             <Price>${item.price}</Price>
-            <Link to={`/shop/${item.id}`}>
+            <Link to={`/ecommerce-web-app/shop/${item.id}`}>
               <Button>VIEW DETAILS ➜</Button>
             </Link>
           </Item>
