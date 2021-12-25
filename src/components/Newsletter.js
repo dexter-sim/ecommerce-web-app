@@ -53,7 +53,7 @@ const Newsletter = () => {
       <InputContainer>
         <Input placeholder="Email" />
         <Button>
-          <Send />
+          <Send style={{ verticalAlign: "middle" }} />
         </Button>
       </InputContainer>
     </Container>
