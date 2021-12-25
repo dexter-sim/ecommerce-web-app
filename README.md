@@ -46,3 +46,4 @@ Visit the [website](https://dexter-sim.github.io/ecommerce-web-app) to play arou
 - Prettier
 - JavaScript
 - VSCode
+- GitHub Pages
