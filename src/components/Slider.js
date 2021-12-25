@@ -52,7 +52,7 @@ const Slide = styled.div`
 
 const InfoContainer = styled.div`
   flex: 1;
-  padding: 100px;
+  padding: 8%;
   color: white;
 `;
 
