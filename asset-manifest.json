@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/ecommerce-web-app/static/js/main.796557c1.js",
+    "main.js": "/ecommerce-web-app/static/js/main.10584cb8.js",
     "static/media/razer.png": "/ecommerce-web-app/static/media/razer.7805fdb987a1638c5140.png",
     "static/media/nvidia-3090.png": "/ecommerce-web-app/static/media/nvidia-3090.0f41bc17559faeec0b93.png",
     "static/media/trident-z-royal.png": "/ecommerce-web-app/static/media/trident-z-royal.f633a88271798a37fd4d.png",
@@ -14,9 +14,9 @@
     "static/media/ryzen9.png": "/ecommerce-web-app/static/media/ryzen9.d8e96d699aa0c8ed08fb.png",
     "static/media/ryzen-banner.webp": "/ecommerce-web-app/static/media/ryzen-banner.d1a4c00256a9dc780f34.webp",
     "index.html": "/ecommerce-web-app/index.html",
-    "main.796557c1.js.map": "/ecommerce-web-app/static/js/main.796557c1.js.map"
+    "main.10584cb8.js.map": "/ecommerce-web-app/static/js/main.10584cb8.js.map"
   },
   "entrypoints": [
-    "static/js/main.796557c1.js"
+    "static/js/main.10584cb8.js"
   ]
 }
