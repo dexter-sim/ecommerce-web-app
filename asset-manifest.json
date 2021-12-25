@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.js": "/ecommerce-web-app/static/js/main.796557c1.js",
+    "static/media/razer.png": "/ecommerce-web-app/static/media/razer.7805fdb987a1638c5140.png",
+    "static/media/nvidia-3090.png": "/ecommerce-web-app/static/media/nvidia-3090.0f41bc17559faeec0b93.png",
+    "static/media/trident-z-royal.png": "/ecommerce-web-app/static/media/trident-z-royal.f633a88271798a37fd4d.png",
+    "static/media/rx-6800-xt.png": "/ecommerce-web-app/static/media/rx-6800-xt.b6b1c3c4b380e669a3d6.png",
+    "static/media/rtx-3070.png": "/ecommerce-web-app/static/media/rtx-3070.e09d4b90a9d3101e2cf8.png",
+    "static/media/rtx-3090.png": "/ecommerce-web-app/static/media/rtx-3090.f6ee6c1d662b951e0e34.png",
+    "static/media/trident-z5.png": "/ecommerce-web-app/static/media/trident-z5.c179c608af91b325d838.png",
+    "static/media/ryzen5.png": "/ecommerce-web-app/static/media/ryzen5.23124a9a5fde62fe0f4b.png",
+    "static/media/trident-z-rgb.png": "/ecommerce-web-app/static/media/trident-z-rgb.b04c894eead3dc4006ce.png",
+    "static/media/ryzen7.png": "/ecommerce-web-app/static/media/ryzen7.6917770842fbc2c372da.png",
+    "static/media/ryzen9.png": "/ecommerce-web-app/static/media/ryzen9.d8e96d699aa0c8ed08fb.png",
+    "static/media/ryzen-banner.webp": "/ecommerce-web-app/static/media/ryzen-banner.d1a4c00256a9dc780f34.webp",
+    "index.html": "/ecommerce-web-app/index.html",
+    "main.796557c1.js.map": "/ecommerce-web-app/static/js/main.796557c1.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.796557c1.js"
+  ]
+}
