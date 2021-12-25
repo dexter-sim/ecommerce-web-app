@@ -34,6 +34,8 @@ Live version of the website [here](https://dexter-sim.github.io/ecommerce-web-ap
 
 ![image](/screenshots/cart.png?raw=true)
 
+Visit the [website](https://dexter-sim.github.io/ecommerce-web-app) to play around and explore further.
+
 ## Frameworks, Tools and Technologies Used
 
 - React
