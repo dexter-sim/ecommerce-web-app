@@ -10,7 +10,6 @@ const Item = styled.div`
   display: flex;
   flex-direction: row;
   padding: 2%;
-  background-color: whitesmoke;
 `;
 
 const ImgContainer = styled.div`
