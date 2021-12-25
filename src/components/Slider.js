@@ -72,7 +72,6 @@ const Button = styled.button`
   font-weight: 600;
   width: 150px;
   cursor: pointer;
-  margin-right: 60%;
   color: white;
   border: 2px white solid;
   background-color: transparent;
