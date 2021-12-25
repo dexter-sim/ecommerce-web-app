@@ -136,7 +136,7 @@ const Cart = () => {
           </Item>
         ))}
       <GrandTotal>
-        Grand Total: $
+        Subtotal: $
         {items.reduce((prev, curr) => prev + curr.count * curr.price, 0)}
       </GrandTotal>
       <Bottom>
